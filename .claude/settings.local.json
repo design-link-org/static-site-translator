@@ -24,7 +24,13 @@
       "Bash(xargs:*)",
       "Bash(git checkout:*)",
       "Bash(git merge:*)",
-      "Bash(gh run watch:*)"
+      "Bash(gh run watch:*)",
+      "Read(//Users/h.suzuki/Downloads/dist/**)",
+      "Bash(pnpm install:*)",
+      "Bash(pnpm build:*)",
+      "Bash(pnpm remove:*)",
+      "Read(//Users/h.suzuki/Downloads/dist 2/**)",
+      "Read(//Users/h.suzuki/Downloads/dist 2/en/**)"
     ],
     "deny": [],
     "ask": []
