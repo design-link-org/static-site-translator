@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:github.com)",
+      "Bash(pnpm add:*)",
+      "Bash(npm install:*)",
+      "Bash(npm run build:*)",
+      "Bash(node dist/cli.js --help)",
+      "Bash(node:*)",
+      "Bash(cat:*)",
+      "Bash(chmod:*)",
+      "Bash(timeout:*)",
+      "Bash(git add:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
