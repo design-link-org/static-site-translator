@@ -10,7 +10,21 @@
       "Bash(cat:*)",
       "Bash(chmod:*)",
       "Bash(timeout:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)",
+      "Read(//Users/h.suzuki/Project/WebSiteNeneTsujii/**)",
+      "Bash(npm:*)",
+      "Bash(gh auth:*)",
+      "Bash(gh secret set:*)",
+      "Bash(gh secret:*)",
+      "Bash(gh run list:*)",
+      "Bash(gh run view:*)",
+      "Bash(xargs gh run view:*)",
+      "Bash(xargs:*)",
+      "Bash(git checkout:*)",
+      "Bash(git merge:*)",
+      "Bash(gh run watch:*)"
     ],
     "deny": [],
     "ask": []
