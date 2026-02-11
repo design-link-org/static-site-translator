@@ -32,7 +32,8 @@
       "Read(//Users/h.suzuki/Downloads/dist 2/**)",
       "Read(//Users/h.suzuki/Downloads/dist 2/en/**)",
       "Bash(git log:*)",
-      "Read(//Users/h.suzuki/Downloads/**)"
+      "Read(//Users/h.suzuki/Downloads/**)",
+      "Bash(gh workflow run:*)"
     ],
     "deny": [],
     "ask": []
